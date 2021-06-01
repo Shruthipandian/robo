@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 const Scroll =(props) =>{
     return(
         <div style={{overflow:'Scroll',border:'5px solid black',height:'500px'}}>

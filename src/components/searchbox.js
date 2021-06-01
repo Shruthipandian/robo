@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 const Searchbox =({searchfield,searchChange}) =>{
     return(
         <div className='pa2'>
